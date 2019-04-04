@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Eugen Lobicov](https://up.htmlacademy.ru/adaptive/16/user/290621).
-* Наставник: `Неизвестно`.
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev).
 
 ---
 
